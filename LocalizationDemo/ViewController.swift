@@ -15,8 +15,9 @@ class ViewController: UIViewController {
     
     var developer = ""
     
-    print("Hell0")
+    
     override func viewDidLoad() {
+        print("Hell0")
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
