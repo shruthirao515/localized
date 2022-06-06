@@ -6,6 +6,7 @@
 //
 
 import Foundation
-func add() {
-
+func add(a:Int, b:Int) {
+print("adding \(a)+\(b)=\(a+b)")
+    
 }
