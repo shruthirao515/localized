@@ -1,0 +1,17 @@
+/* 
+  mystrings.strings
+  LocalizationDemo
+
+  Created by Shridevi Sawant on 03/06/22.
+  
+*/
+
+"alert_err_title" = "ERREUR";
+"alert_success_title" = "SUCCÈS";
+
+"alert_err_msg" = "Veuillez remplir toutes les données";
+"alert_success_msg" = "Vous êtes connecté.";
+
+"ok_btn" = "D'ACCORD";
+"developer" = "Shridevi Sawant";
+

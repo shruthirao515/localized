@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  LocalizationDemo
+
+  Created by Shridevi Sawant on 03/06/22.
+  
+*/
+
+"CFBundleName" = "FrenchApp";
+"CFBundleDisplayName" = "FrenchApp";

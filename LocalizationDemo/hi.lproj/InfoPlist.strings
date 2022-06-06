@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  LocalizationDemo
+
+  Created by Shridevi Sawant on 03/06/22.
+  
+*/
+
+"CFBundleName" = "स्थानिकीकरण डेमो";
+"CFBundleDisplayName" = "स्थानिकीकरण डेमो";

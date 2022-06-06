@@ -1,0 +1,18 @@
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "IsV-Tv-FOk"; */
+"IsV-Tv-FOk.placeholder" = "उपयोगकर्ता नाम";
+
+/* Class = "UILabel"; text = "Welcome to Capgemini"; ObjectID = "LBC-qK-7Qp"; */
+"LBC-qK-7Qp.text" = "कैपजेमिनी में आपका स्वागत है";
+
+/* Class = "UIButton"; configuration.title = "LOGIN"; ObjectID = "Pd4-OL-YQf"; */
+"Pd4-OL-YQf.configuration.title" = "लॉग इन करें";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pd4-OL-YQf"; */
+"Pd4-OL-YQf.normalTitle" = "लॉग इन करें";
+
+/* Class = "UILabel"; text = "@Copyright 2022 Developed By - "; ObjectID = "WVG-3G-bDI"; */
+"WVG-3G-bDI.text" = "@कॉपीराइट 2022 द्वारा विकसित -";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "tcG-Ed-5hL"; */
+"tcG-Ed-5hL.placeholder" = "पासवर्ड";
